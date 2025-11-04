@@ -25,7 +25,7 @@ O projeto foi dividido em etapas, cada uma com o uso de uma ferramenta de IA esp
 ┣ 📂 prompts
 ┃ ┣ nome_podcast.md
 ┃ ┣ capa_podcast.md
-┃ ┗ roteiro.md
+┃ ┗ roteiro_EP01.md
 ┣ 📜 Capa PodCast.jpg
 ┣ 🎧 Multiverso Neural - IA Generativa.mp4
 ┗ 📘 README.md
